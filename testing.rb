@@ -41,6 +41,6 @@ class Song
 
 end
 
-
+the_middle = Song.create_by_name("The Middle")
 
 binding.pry
